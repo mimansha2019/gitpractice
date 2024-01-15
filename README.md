@@ -2,4 +2,4 @@
 
 ## Github 
 
-#Mimansha's Git Tutorials
+## Mimansha's Git Tutorials
